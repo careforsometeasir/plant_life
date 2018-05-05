@@ -1,7 +1,7 @@
 
 from environment import air
 from stem import stem
-
+from logger import create_logfile
 from leaf import leaf   
 #import sys  
 #
@@ -10,6 +10,7 @@ from leaf import leaf
 
   
 leaves={}
+log=[]
 def add_leaf():
     if steme.sugar>=6:
         leaves[len(leaves)+1]=leaf()    
@@ -23,17 +24,21 @@ if __name__ == '__main__':
     n=0
     while n<= 50:
         add_leaf()
-        print("TOTAL LEAF NUMBER AT RUN {}: {}".format(n,len(leaves)))
+        log.append("TOTAL LEAF NUMBER AT RUN {}: {}\n".format(n,len(leaves)))
         for i,a in leaves.items():
-            print("LEAF CODE {}".format(i))
+            log.append("LEAF CODE {}\n".format(i))
             if a.alive:
-                CO2,O2,H2O,sugar=a.life(time_step,steme,env)
+                CO2,O2,H2O,sugar,logword=a.life(time_step,steme,env)
                 env.CO2+=CO2
                 env.O2+=O2
                 steme.H2O+=H2O
                 steme.sugar+=sugar
+                for f in logword:
+                    log.append(f)
+                
             else:
 #                I want to remove the leaf from the dictionary, but I need to use another method rather then len to add a ne one
-                print ("LEAF NUMBER {} died".format(i))
-        print("TOTAL SUGAR IN STEM AT THE END OF RUN {}: {}".format(n,round(steme.sugar,3)))
+                log.append("LEAF NUMBER {} died\n".format(i))
+        log.append("TOTAL SUGAR IN STEM AT THE END OF RUN {}: {}\n".format(n,round(steme.sugar,3)))
         n+=time_step
+    create_logfile(log)
