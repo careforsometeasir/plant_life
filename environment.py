@@ -4,4 +4,4 @@ class air():
         
         self.O2=amount*1000
         self.solar=True
-        print "air initialised"
+        print ("air initialised")
