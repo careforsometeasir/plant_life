@@ -21,7 +21,7 @@ if __name__ == '__main__':
     steme=stem(9)
     time_step=1
     n=0
-    while n<= 3:
+    while n<= 150:
         add_leaf()
         print("leaves:",len(leaves))
         for a in leaves.values():
@@ -36,5 +36,5 @@ if __name__ == '__main__':
             else:
 #                I want to remove the leaf from the dictionary, but I need to use another method rather then len to add a ne one
                 print ("a died")
-        print steme.sugar
+        print(steme.sugar)
         n+=time_step

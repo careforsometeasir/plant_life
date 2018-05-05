@@ -33,7 +33,7 @@ class leaf ():
     """the leaf can grow from growth_stage=0.01 to 1 with a basal mantainment consumption of growthstage*3. The growth cost in sugar is inversely proportional to the growthstage: to grow 1%, the consumption is 10*(1-growthstage). """
     def __init__(self):    
         self.growth_stage=0.01
-        self.sugar=0
+        self.sugar=10
 #        self.alive=True
         self.deathcount=0
         self.alive=self.is_alive()
@@ -71,8 +71,8 @@ class leaf ():
         """if there is excess of sugar in the leaf, returns it to the stem"""
         if what =="sugar":
             if self.sugar>2:
-                self.sugar-= 2-self.sugar                
-                self.sugar_out+= 2-self.sugar
+                self.sugar-= self.sugar-2                
+                self.sugar_out+= self.sugar-2
      
 
     def stomatain_test(self,what,amount):
@@ -125,11 +125,14 @@ class leaf ():
     def grow (self):
         """the leaf can live without growing"""
         print(self.growth_stage,"stage")
+
         if self.growth_stage<1:#
             print("there is growth only if the leaf is not mature",self.sugar,1-self.growth_stage)
             if self.sugar>=(1-self.growth_stage):#
                 self.sugar-=(1-self.growth_stage)
                 self.growth_stage+=1-np.exp(-self.growth_stage)#1% of growth for 10sugar*(1-growth stage). The higher the growth stage the cheaper the growth
+                if self.growth_stage>1:
+                    self.growth_stage=1
 #                print("grown!")
             else:#if the sugar is not enough, draw it for the next time step
                 if self.inflow_test("sugar",(1-self.growth_stage)):#enough sugar in circulation
