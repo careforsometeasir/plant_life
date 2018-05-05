@@ -1,0 +1,3375 @@
+air initialised
+stem initialised
+TOTAL LEAF NUMBER AT RUN 0: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 0: 5.01
+TOTAL LEAF NUMBER AT RUN 1: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+TOTAL SUGAR IN STEM AT THE END OF RUN 1: 5.01
+TOTAL LEAF NUMBER AT RUN 2: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+TOTAL SUGAR IN STEM AT THE END OF RUN 2: 4.025
+TOTAL LEAF NUMBER AT RUN 3: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+TOTAL SUGAR IN STEM AT THE END OF RUN 3: 4.025
+TOTAL LEAF NUMBER AT RUN 4: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+TOTAL SUGAR IN STEM AT THE END OF RUN 4: 3.047
+TOTAL LEAF NUMBER AT RUN 5: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+TOTAL SUGAR IN STEM AT THE END OF RUN 5: 3.047
+TOTAL LEAF NUMBER AT RUN 6: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+TOTAL SUGAR IN STEM AT THE END OF RUN 6: 2.081
+TOTAL LEAF NUMBER AT RUN 7: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+TOTAL SUGAR IN STEM AT THE END OF RUN 7: 2.081
+TOTAL LEAF NUMBER AT RUN 8: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 0.49 to 0.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.637
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.58691794515
+TOTAL SUGAR IN STEM AT THE END OF RUN 8: 1.131
+TOTAL LEAF NUMBER AT RUN 9: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 1.59 to 1.89 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.738
+growt stage: 0.05
+just grown
+TOTAL SUGAR IN STEM AT THE END OF RUN 9: 1.131
+TOTAL LEAF NUMBER AT RUN 10: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 0.79 to 1.24 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 1.013
+growt stage: 0.08
+just grown
+TOTAL SUGAR IN STEM AT THE END OF RUN 10: 1.131
+TOTAL LEAF NUMBER AT RUN 11: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 0.09 to 0.76 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 0.424
+growt stage: 0.11
+drawing for growth in next stage
+0.88802495874 of sugar was drawn from the stem
+ Now the internal sugar is 1.31246638837
+TOTAL SUGAR IN STEM AT THE END OF RUN 11: 0.243
+TOTAL LEAF NUMBER AT RUN 12: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 1.31 to 1.98 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 1.648
+growt stage: 0.11
+just grown
+TOTAL SUGAR IN STEM AT THE END OF RUN 12: 0.243
+TOTAL LEAF NUMBER AT RUN 13: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 0.76 to 1.76 due to a 6 x 0.17(growthstage)= 1.0
+0.499272316688 is being used for mantainment
+now the in sugar is 1.26
+growt stage: 0.17
+just grown
+TOTAL SUGAR IN STEM AT THE END OF RUN 13: 0.243
+TOTAL LEAF NUMBER AT RUN 14: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 0.43 to 1.9 due to a 6 x 0.25(growthstage)= 1.48
+0.738804302017 is being used for mantainment
+now the in sugar is 1.165
+growt stage: 0.25
+just grown
+TOTAL SUGAR IN STEM AT THE END OF RUN 14: 0.243
+TOTAL LEAF NUMBER AT RUN 15: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 0.41 to 2.58 due to a 6 x 0.36(growthstage)= 2.17
+1.08636889802 is being used for mantainment
+now the in sugar is 1.498
+growt stage: 0.36
+just grown
+TOTAL SUGAR IN STEM AT THE END OF RUN 15: 0.243
+TOTAL LEAF NUMBER AT RUN 16: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 0.86 to 4.03 due to a 6 x 0.53(growthstage)= 3.17
+1.58321672798 is being used for mantainment
+now the in sugar is 2.443
+growt stage: 0.53
+just grown
+TOTAL SUGAR IN STEM AT THE END OF RUN 16: 0.243
+TOTAL LEAF NUMBER AT RUN 17: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 1.97 to 6.53 due to a 6 x 0.76(growthstage)= 4.56
+2.27899532329 is being used for mantainment
+now the in sugar is 4.25
+growt stage: 0.76
+just grown
+the sugar is in excess (4.01)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 2.00924331075
+TOTAL SUGAR IN STEM AT THE END OF RUN 17: 2.253
+TOTAL LEAF NUMBER AT RUN 18: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+TOTAL SUGAR IN STEM AT THE END OF RUN 18: 5.253
+TOTAL LEAF NUMBER AT RUN 19: 1
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+TOTAL SUGAR IN STEM AT THE END OF RUN 19: 8.253
+TOTAL LEAF NUMBER AT RUN 20: 2
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 20: 10.263
+TOTAL LEAF NUMBER AT RUN 21: 3
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 3
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 21: 12.273
+TOTAL LEAF NUMBER AT RUN 22: 4
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 3
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 4
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 22: 13.298
+TOTAL LEAF NUMBER AT RUN 23: 5
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 3
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 4
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 5
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 23: 14.323
+TOTAL LEAF NUMBER AT RUN 24: 6
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 3
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 4
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 5
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 6
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 24: 14.37
+TOTAL LEAF NUMBER AT RUN 25: 7
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 3
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 4
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 5
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 6
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 7
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 25: 14.417
+TOTAL LEAF NUMBER AT RUN 26: 8
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 3
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 4
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 5
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 6
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 7
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 8
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 26: 13.498
+TOTAL LEAF NUMBER AT RUN 27: 9
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+LEAF CODE 3
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 4
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 5
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 6
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 7
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 8
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 9
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 27: 12.58
+TOTAL LEAF NUMBER AT RUN 28: 10
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 0.49 to 0.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.637
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.58691794515
+LEAF CODE 3
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+LEAF CODE 4
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 5
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 6
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 7
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 8
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 9
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 10
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 28: 10.711
+TOTAL LEAF NUMBER AT RUN 29: 11
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 1.59 to 1.89 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.738
+growt stage: 0.05
+just grown
+LEAF CODE 3
+the sugar changes due to photosynthesis from 0.49 to 0.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.637
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.58691794515
+LEAF CODE 4
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+LEAF CODE 5
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 6
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 7
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 8
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 9
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 10
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 11
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 29: 8.842
+TOTAL LEAF NUMBER AT RUN 30: 12
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 0.79 to 1.24 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 1.013
+growt stage: 0.08
+just grown
+LEAF CODE 3
+the sugar changes due to photosynthesis from 1.59 to 1.89 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.738
+growt stage: 0.05
+just grown
+LEAF CODE 4
+the sugar changes due to photosynthesis from 0.49 to 0.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.637
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.58691794515
+LEAF CODE 5
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+LEAF CODE 6
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 7
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 8
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 9
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 10
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 11
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 12
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 30: 6.974
+TOTAL LEAF NUMBER AT RUN 31: 13
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 0.09 to 0.76 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 0.424
+growt stage: 0.11
+drawing for growth in next stage
+0.88802495874 of sugar was drawn from the stem
+ Now the internal sugar is 1.31246638837
+LEAF CODE 3
+the sugar changes due to photosynthesis from 0.79 to 1.24 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 1.013
+growt stage: 0.08
+just grown
+LEAF CODE 4
+the sugar changes due to photosynthesis from 1.59 to 1.89 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.738
+growt stage: 0.05
+just grown
+LEAF CODE 5
+the sugar changes due to photosynthesis from 0.49 to 0.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.637
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.58691794515
+LEAF CODE 6
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+LEAF CODE 7
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 8
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 9
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 10
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 11
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 12
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 13
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 31: 4.217
+TOTAL LEAF NUMBER AT RUN 32: 13
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 1.31 to 1.98 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 1.648
+growt stage: 0.11
+just grown
+LEAF CODE 3
+the sugar changes due to photosynthesis from 0.09 to 0.76 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 0.424
+growt stage: 0.11
+drawing for growth in next stage
+0.88802495874 of sugar was drawn from the stem
+ Now the internal sugar is 1.31246638837
+LEAF CODE 4
+the sugar changes due to photosynthesis from 0.79 to 1.24 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 1.013
+growt stage: 0.08
+just grown
+LEAF CODE 5
+the sugar changes due to photosynthesis from 1.59 to 1.89 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.738
+growt stage: 0.05
+just grown
+LEAF CODE 6
+the sugar changes due to photosynthesis from 0.49 to 0.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.637
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.58691794515
+LEAF CODE 7
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+LEAF CODE 8
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 9
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 10
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 11
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 12
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 13
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+TOTAL SUGAR IN STEM AT THE END OF RUN 32: 2.45
+TOTAL LEAF NUMBER AT RUN 33: 13
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 0.76 to 1.76 due to a 6 x 0.17(growthstage)= 1.0
+0.499272316688 is being used for mantainment
+now the in sugar is 1.26
+growt stage: 0.17
+just grown
+LEAF CODE 3
+the sugar changes due to photosynthesis from 1.31 to 1.98 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 1.648
+growt stage: 0.11
+just grown
+LEAF CODE 4
+the sugar changes due to photosynthesis from 0.09 to 0.76 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 0.424
+growt stage: 0.11
+drawing for growth in next stage
+0.88802495874 of sugar was drawn from the stem
+ Now the internal sugar is 1.31246638837
+LEAF CODE 5
+the sugar changes due to photosynthesis from 0.79 to 1.24 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 1.013
+growt stage: 0.08
+just grown
+LEAF CODE 6
+the sugar changes due to photosynthesis from 1.59 to 1.89 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.738
+growt stage: 0.05
+just grown
+LEAF CODE 7
+the sugar changes due to photosynthesis from 0.49 to 0.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.637
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.58691794515
+LEAF CODE 8
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+LEAF CODE 9
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 10
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 11
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 12
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 13
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+TOTAL SUGAR IN STEM AT THE END OF RUN 33: 0.684
+TOTAL LEAF NUMBER AT RUN 34: 13
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 0.43 to 1.9 due to a 6 x 0.25(growthstage)= 1.48
+0.738804302017 is being used for mantainment
+now the in sugar is 1.165
+growt stage: 0.25
+just grown
+LEAF CODE 3
+the sugar changes due to photosynthesis from 0.76 to 1.76 due to a 6 x 0.17(growthstage)= 1.0
+0.499272316688 is being used for mantainment
+now the in sugar is 1.26
+growt stage: 0.17
+just grown
+LEAF CODE 4
+the sugar changes due to photosynthesis from 1.31 to 1.98 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 1.648
+growt stage: 0.11
+just grown
+LEAF CODE 5
+the sugar changes due to photosynthesis from 0.09 to 0.76 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 0.424
+growt stage: 0.11
+drawing for growth in next stage
+0.88802495874 of sugar was drawn from the stem
+ Now the internal sugar is 1.31246638837
+LEAF CODE 6
+the sugar changes due to photosynthesis from 0.79 to 1.24 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 1.013
+growt stage: 0.08
+just grown
+LEAF CODE 7
+the sugar changes due to photosynthesis from 1.59 to 1.89 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.738
+growt stage: 0.05
+just grown
+LEAF CODE 8
+the sugar changes due to photosynthesis from 0.49 to 0.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.637
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.58691794515
+LEAF CODE 9
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+LEAF CODE 10
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 11
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 12
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+something else
+0.879395256143 of sugar was drawn from the stem
+ Now the internal sugar is 1.09668019997
+LEAF CODE 13
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+TOTAL SUGAR IN STEM AT THE END OF RUN 34: 0.0
+TOTAL LEAF NUMBER AT RUN 35: 13
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 0.41 to 2.58 due to a 6 x 0.36(growthstage)= 2.17
+1.08636889802 is being used for mantainment
+now the in sugar is 1.498
+growt stage: 0.36
+just grown
+LEAF CODE 3
+the sugar changes due to photosynthesis from 0.43 to 1.9 due to a 6 x 0.25(growthstage)= 1.48
+0.738804302017 is being used for mantainment
+now the in sugar is 1.165
+growt stage: 0.25
+just grown
+LEAF CODE 4
+the sugar changes due to photosynthesis from 0.76 to 1.76 due to a 6 x 0.17(growthstage)= 1.0
+0.499272316688 is being used for mantainment
+now the in sugar is 1.26
+growt stage: 0.17
+just grown
+LEAF CODE 5
+the sugar changes due to photosynthesis from 1.31 to 1.98 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 1.648
+growt stage: 0.11
+just grown
+LEAF CODE 6
+the sugar changes due to photosynthesis from 0.09 to 0.76 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 0.424
+growt stage: 0.11
+drawing for growth in next stage
+0.88802495874 of sugar was drawn from the stem
+ Now the internal sugar is 1.31246638837
+LEAF CODE 7
+the sugar changes due to photosynthesis from 0.79 to 1.24 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 1.013
+growt stage: 0.08
+just grown
+LEAF CODE 8
+the sugar changes due to photosynthesis from 1.59 to 1.89 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.738
+growt stage: 0.05
+just grown
+LEAF CODE 9
+the sugar changes due to photosynthesis from 0.49 to 0.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.637
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.58691794515
+LEAF CODE 10
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+LEAF CODE 11
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 12
+the sugar changes due to photosynthesis from 1.1 to 1.23 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.164
+growt stage: 0.02
+just grown
+LEAF CODE 13
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+something else
+0.195877380474 of sugar was drawn from the stem
+ Now the internal sugar is 0.413162324301
+TOTAL SUGAR IN STEM AT THE END OF RUN 35: 0.0
+TOTAL LEAF NUMBER AT RUN 36: 13
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 0.86 to 4.03 due to a 6 x 0.53(growthstage)= 3.17
+1.58321672798 is being used for mantainment
+now the in sugar is 2.443
+growt stage: 0.53
+just grown
+LEAF CODE 3
+the sugar changes due to photosynthesis from 0.41 to 2.58 due to a 6 x 0.36(growthstage)= 2.17
+1.08636889802 is being used for mantainment
+now the in sugar is 1.498
+growt stage: 0.36
+just grown
+LEAF CODE 4
+the sugar changes due to photosynthesis from 0.43 to 1.9 due to a 6 x 0.25(growthstage)= 1.48
+0.738804302017 is being used for mantainment
+now the in sugar is 1.165
+growt stage: 0.25
+just grown
+LEAF CODE 5
+the sugar changes due to photosynthesis from 0.76 to 1.76 due to a 6 x 0.17(growthstage)= 1.0
+0.499272316688 is being used for mantainment
+now the in sugar is 1.26
+growt stage: 0.17
+just grown
+LEAF CODE 6
+the sugar changes due to photosynthesis from 1.31 to 1.98 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 1.648
+growt stage: 0.11
+just grown
+LEAF CODE 7
+the sugar changes due to photosynthesis from 0.09 to 0.76 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 0.424
+growt stage: 0.11
+drawing for growth in next stage
+0.88802495874 of sugar was drawn from the stem
+ Now the internal sugar is 1.31246638837
+LEAF CODE 8
+the sugar changes due to photosynthesis from 0.79 to 1.24 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 1.013
+growt stage: 0.08
+just grown
+LEAF CODE 9
+the sugar changes due to photosynthesis from 1.59 to 1.89 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.738
+growt stage: 0.05
+just grown
+LEAF CODE 10
+the sugar changes due to photosynthesis from 0.49 to 0.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.637
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.58691794515
+LEAF CODE 11
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+LEAF CODE 12
+the sugar changes due to photosynthesis from 0.19 to 0.39 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.287
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.2537275439
+LEAF CODE 13
+the sugar changes due to photosynthesis from 0.41 to 0.55 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.481
+growt stage: 0.02
+something else
+0.195877380474 of sugar was drawn from the stem
+ Now the internal sugar is 0.676399523758
+TOTAL SUGAR IN STEM AT THE END OF RUN 36: 0.0
+TOTAL LEAF NUMBER AT RUN 37: 13
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 1.97 to 6.53 due to a 6 x 0.76(growthstage)= 4.56
+2.27899532329 is being used for mantainment
+now the in sugar is 4.25
+growt stage: 0.76
+just grown
+the sugar is in excess (4.01)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 2.00924331075
+LEAF CODE 3
+the sugar changes due to photosynthesis from 0.86 to 4.03 due to a 6 x 0.53(growthstage)= 3.17
+1.58321672798 is being used for mantainment
+now the in sugar is 2.443
+growt stage: 0.53
+just grown
+LEAF CODE 4
+the sugar changes due to photosynthesis from 0.41 to 2.58 due to a 6 x 0.36(growthstage)= 2.17
+1.08636889802 is being used for mantainment
+now the in sugar is 1.498
+growt stage: 0.36
+just grown
+LEAF CODE 5
+the sugar changes due to photosynthesis from 0.43 to 1.9 due to a 6 x 0.25(growthstage)= 1.48
+0.738804302017 is being used for mantainment
+now the in sugar is 1.165
+growt stage: 0.25
+just grown
+LEAF CODE 6
+the sugar changes due to photosynthesis from 0.76 to 1.76 due to a 6 x 0.17(growthstage)= 1.0
+0.499272316688 is being used for mantainment
+now the in sugar is 1.26
+growt stage: 0.17
+just grown
+LEAF CODE 7
+the sugar changes due to photosynthesis from 1.31 to 1.98 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 1.648
+growt stage: 0.11
+just grown
+LEAF CODE 8
+the sugar changes due to photosynthesis from 0.09 to 0.76 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 0.424
+growt stage: 0.11
+drawing for growth in next stage
+0.88802495874 of sugar was drawn from the stem
+ Now the internal sugar is 1.31246638837
+LEAF CODE 9
+the sugar changes due to photosynthesis from 0.79 to 1.24 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 1.013
+growt stage: 0.08
+just grown
+LEAF CODE 10
+the sugar changes due to photosynthesis from 1.59 to 1.89 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.738
+growt stage: 0.05
+just grown
+LEAF CODE 11
+the sugar changes due to photosynthesis from 0.49 to 0.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.637
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.58691794515
+LEAF CODE 12
+the sugar changes due to photosynthesis from 1.25 to 1.46 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.355
+growt stage: 0.03
+just grown
+LEAF CODE 13
+the sugar changes due to photosynthesis from 0.68 to 0.81 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.744
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.72130606975
+TOTAL SUGAR IN STEM AT THE END OF RUN 37: 2.194
+TOTAL LEAF NUMBER AT RUN 38: 13
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 3
+the sugar changes due to photosynthesis from 1.97 to 6.53 due to a 6 x 0.76(growthstage)= 4.56
+2.27899532329 is being used for mantainment
+now the in sugar is 4.25
+growt stage: 0.76
+just grown
+the sugar is in excess (4.01)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 2.00924331075
+LEAF CODE 4
+the sugar changes due to photosynthesis from 0.86 to 4.03 due to a 6 x 0.53(growthstage)= 3.17
+1.58321672798 is being used for mantainment
+now the in sugar is 2.443
+growt stage: 0.53
+just grown
+LEAF CODE 5
+the sugar changes due to photosynthesis from 0.41 to 2.58 due to a 6 x 0.36(growthstage)= 2.17
+1.08636889802 is being used for mantainment
+now the in sugar is 1.498
+growt stage: 0.36
+just grown
+LEAF CODE 6
+the sugar changes due to photosynthesis from 0.43 to 1.9 due to a 6 x 0.25(growthstage)= 1.48
+0.738804302017 is being used for mantainment
+now the in sugar is 1.165
+growt stage: 0.25
+just grown
+LEAF CODE 7
+the sugar changes due to photosynthesis from 0.76 to 1.76 due to a 6 x 0.17(growthstage)= 1.0
+0.499272316688 is being used for mantainment
+now the in sugar is 1.26
+growt stage: 0.17
+just grown
+LEAF CODE 8
+the sugar changes due to photosynthesis from 1.31 to 1.98 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 1.648
+growt stage: 0.11
+just grown
+LEAF CODE 9
+the sugar changes due to photosynthesis from 0.09 to 0.76 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 0.424
+growt stage: 0.11
+drawing for growth in next stage
+0.88802495874 of sugar was drawn from the stem
+ Now the internal sugar is 1.31246638837
+LEAF CODE 10
+the sugar changes due to photosynthesis from 0.79 to 1.24 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 1.013
+growt stage: 0.08
+just grown
+LEAF CODE 11
+the sugar changes due to photosynthesis from 1.59 to 1.89 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.738
+growt stage: 0.05
+just grown
+LEAF CODE 12
+the sugar changes due to photosynthesis from 0.39 to 0.69 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.539
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.48876647428
+LEAF CODE 13
+the sugar changes due to photosynthesis from 1.72 to 1.86 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.789
+growt stage: 0.02
+just grown
+TOTAL SUGAR IN STEM AT THE END OF RUN 38: 8.365
+TOTAL LEAF NUMBER AT RUN 39: 14
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 3
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 4
+the sugar changes due to photosynthesis from 1.97 to 6.53 due to a 6 x 0.76(growthstage)= 4.56
+2.27899532329 is being used for mantainment
+now the in sugar is 4.25
+growt stage: 0.76
+just grown
+the sugar is in excess (4.01)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 2.00924331075
+LEAF CODE 5
+the sugar changes due to photosynthesis from 0.86 to 4.03 due to a 6 x 0.53(growthstage)= 3.17
+1.58321672798 is being used for mantainment
+now the in sugar is 2.443
+growt stage: 0.53
+just grown
+LEAF CODE 6
+the sugar changes due to photosynthesis from 0.41 to 2.58 due to a 6 x 0.36(growthstage)= 2.17
+1.08636889802 is being used for mantainment
+now the in sugar is 1.498
+growt stage: 0.36
+just grown
+LEAF CODE 7
+the sugar changes due to photosynthesis from 0.43 to 1.9 due to a 6 x 0.25(growthstage)= 1.48
+0.738804302017 is being used for mantainment
+now the in sugar is 1.165
+growt stage: 0.25
+just grown
+LEAF CODE 8
+the sugar changes due to photosynthesis from 0.76 to 1.76 due to a 6 x 0.17(growthstage)= 1.0
+0.499272316688 is being used for mantainment
+now the in sugar is 1.26
+growt stage: 0.17
+just grown
+LEAF CODE 9
+the sugar changes due to photosynthesis from 1.31 to 1.98 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 1.648
+growt stage: 0.11
+just grown
+LEAF CODE 10
+the sugar changes due to photosynthesis from 0.09 to 0.76 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 0.424
+growt stage: 0.11
+drawing for growth in next stage
+0.88802495874 of sugar was drawn from the stem
+ Now the internal sugar is 1.31246638837
+LEAF CODE 11
+the sugar changes due to photosynthesis from 0.79 to 1.24 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 1.013
+growt stage: 0.08
+just grown
+LEAF CODE 12
+the sugar changes due to photosynthesis from 1.49 to 1.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.64
+growt stage: 0.05
+just grown
+LEAF CODE 13
+the sugar changes due to photosynthesis from 0.81 to 1.01 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.912
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.87835341368
+LEAF CODE 14
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 39: 16.53
+TOTAL LEAF NUMBER AT RUN 40: 15
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 3
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 4
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 5
+the sugar changes due to photosynthesis from 1.97 to 6.53 due to a 6 x 0.76(growthstage)= 4.56
+2.27899532329 is being used for mantainment
+now the in sugar is 4.25
+growt stage: 0.76
+just grown
+the sugar is in excess (4.01)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 2.00924331075
+LEAF CODE 6
+the sugar changes due to photosynthesis from 0.86 to 4.03 due to a 6 x 0.53(growthstage)= 3.17
+1.58321672798 is being used for mantainment
+now the in sugar is 2.443
+growt stage: 0.53
+just grown
+LEAF CODE 7
+the sugar changes due to photosynthesis from 0.41 to 2.58 due to a 6 x 0.36(growthstage)= 2.17
+1.08636889802 is being used for mantainment
+now the in sugar is 1.498
+growt stage: 0.36
+just grown
+LEAF CODE 8
+the sugar changes due to photosynthesis from 0.43 to 1.9 due to a 6 x 0.25(growthstage)= 1.48
+0.738804302017 is being used for mantainment
+now the in sugar is 1.165
+growt stage: 0.25
+just grown
+LEAF CODE 9
+the sugar changes due to photosynthesis from 0.76 to 1.76 due to a 6 x 0.17(growthstage)= 1.0
+0.499272316688 is being used for mantainment
+now the in sugar is 1.26
+growt stage: 0.17
+just grown
+LEAF CODE 10
+the sugar changes due to photosynthesis from 1.31 to 1.98 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 1.648
+growt stage: 0.11
+just grown
+LEAF CODE 11
+the sugar changes due to photosynthesis from 0.09 to 0.76 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 0.424
+growt stage: 0.11
+drawing for growth in next stage
+0.88802495874 of sugar was drawn from the stem
+ Now the internal sugar is 1.31246638837
+LEAF CODE 12
+the sugar changes due to photosynthesis from 0.69 to 1.14 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 0.915
+growt stage: 0.08
+drawing for growth in next stage
+0.92488562306 of sugar was drawn from the stem
+ Now the internal sugar is 1.84013608111
+LEAF CODE 13
+the sugar changes due to photosynthesis from 1.88 to 2.08 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.979
+growt stage: 0.03
+just grown
+LEAF CODE 14
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 15
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 40: 27.737
+TOTAL LEAF NUMBER AT RUN 41: 16
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 3
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 4
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 5
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 6
+the sugar changes due to photosynthesis from 1.97 to 6.53 due to a 6 x 0.76(growthstage)= 4.56
+2.27899532329 is being used for mantainment
+now the in sugar is 4.25
+growt stage: 0.76
+just grown
+the sugar is in excess (4.01)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 2.00924331075
+LEAF CODE 7
+the sugar changes due to photosynthesis from 0.86 to 4.03 due to a 6 x 0.53(growthstage)= 3.17
+1.58321672798 is being used for mantainment
+now the in sugar is 2.443
+growt stage: 0.53
+just grown
+LEAF CODE 8
+the sugar changes due to photosynthesis from 0.41 to 2.58 due to a 6 x 0.36(growthstage)= 2.17
+1.08636889802 is being used for mantainment
+now the in sugar is 1.498
+growt stage: 0.36
+just grown
+LEAF CODE 9
+the sugar changes due to photosynthesis from 0.43 to 1.9 due to a 6 x 0.25(growthstage)= 1.48
+0.738804302017 is being used for mantainment
+now the in sugar is 1.165
+growt stage: 0.25
+just grown
+LEAF CODE 10
+the sugar changes due to photosynthesis from 0.76 to 1.76 due to a 6 x 0.17(growthstage)= 1.0
+0.499272316688 is being used for mantainment
+now the in sugar is 1.26
+growt stage: 0.17
+just grown
+LEAF CODE 11
+the sugar changes due to photosynthesis from 1.31 to 1.98 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 1.648
+growt stage: 0.11
+just grown
+LEAF CODE 12
+the sugar changes due to photosynthesis from 1.84 to 2.29 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 2.065
+growt stage: 0.08
+just grown
+LEAF CODE 13
+the sugar changes due to photosynthesis from 1.01 to 1.31 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.164
+growt stage: 0.05
+just grown
+LEAF CODE 14
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 15
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 16
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 41: 42.771
+TOTAL LEAF NUMBER AT RUN 42: 17
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 3
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 4
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 5
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 6
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 7
+the sugar changes due to photosynthesis from 1.97 to 6.53 due to a 6 x 0.76(growthstage)= 4.56
+2.27899532329 is being used for mantainment
+now the in sugar is 4.25
+growt stage: 0.76
+just grown
+the sugar is in excess (4.01)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 2.00924331075
+LEAF CODE 8
+the sugar changes due to photosynthesis from 0.86 to 4.03 due to a 6 x 0.53(growthstage)= 3.17
+1.58321672798 is being used for mantainment
+now the in sugar is 2.443
+growt stage: 0.53
+just grown
+LEAF CODE 9
+the sugar changes due to photosynthesis from 0.41 to 2.58 due to a 6 x 0.36(growthstage)= 2.17
+1.08636889802 is being used for mantainment
+now the in sugar is 1.498
+growt stage: 0.36
+just grown
+LEAF CODE 10
+the sugar changes due to photosynthesis from 0.43 to 1.9 due to a 6 x 0.25(growthstage)= 1.48
+0.738804302017 is being used for mantainment
+now the in sugar is 1.165
+growt stage: 0.25
+just grown
+LEAF CODE 11
+the sugar changes due to photosynthesis from 0.76 to 1.76 due to a 6 x 0.17(growthstage)= 1.0
+0.499272316688 is being used for mantainment
+now the in sugar is 1.26
+growt stage: 0.17
+just grown
+LEAF CODE 12
+the sugar changes due to photosynthesis from 1.14 to 1.81 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 1.477
+growt stage: 0.11
+just grown
+LEAF CODE 13
+the sugar changes due to photosynthesis from 0.21 to 0.66 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 0.439
+growt stage: 0.08
+drawing for growth in next stage
+0.92488562306 of sugar was drawn from the stem
+ Now the internal sugar is 1.36419152441
+LEAF CODE 14
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 15
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 16
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 17
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 42: 59.88
+TOTAL LEAF NUMBER AT RUN 43: 18
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 3
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 4
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 5
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 6
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 7
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 8
+the sugar changes due to photosynthesis from 1.97 to 6.53 due to a 6 x 0.76(growthstage)= 4.56
+2.27899532329 is being used for mantainment
+now the in sugar is 4.25
+growt stage: 0.76
+just grown
+the sugar is in excess (4.01)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 2.00924331075
+LEAF CODE 9
+the sugar changes due to photosynthesis from 0.86 to 4.03 due to a 6 x 0.53(growthstage)= 3.17
+1.58321672798 is being used for mantainment
+now the in sugar is 2.443
+growt stage: 0.53
+just grown
+LEAF CODE 10
+the sugar changes due to photosynthesis from 0.41 to 2.58 due to a 6 x 0.36(growthstage)= 2.17
+1.08636889802 is being used for mantainment
+now the in sugar is 1.498
+growt stage: 0.36
+just grown
+LEAF CODE 11
+the sugar changes due to photosynthesis from 0.43 to 1.9 due to a 6 x 0.25(growthstage)= 1.48
+0.738804302017 is being used for mantainment
+now the in sugar is 1.165
+growt stage: 0.25
+just grown
+LEAF CODE 12
+the sugar changes due to photosynthesis from 0.59 to 1.59 due to a 6 x 0.17(growthstage)= 1.0
+0.499272316688 is being used for mantainment
+now the in sugar is 1.088
+growt stage: 0.17
+just grown
+LEAF CODE 13
+the sugar changes due to photosynthesis from 1.36 to 1.81 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 1.59
+growt stage: 0.08
+just grown
+LEAF CODE 14
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 15
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 16
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 17
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 18
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 43: 79.937
+TOTAL LEAF NUMBER AT RUN 44: 19
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 3
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 4
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 5
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 6
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 7
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 8
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 9
+the sugar changes due to photosynthesis from 1.97 to 6.53 due to a 6 x 0.76(growthstage)= 4.56
+2.27899532329 is being used for mantainment
+now the in sugar is 4.25
+growt stage: 0.76
+just grown
+the sugar is in excess (4.01)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 2.00924331075
+LEAF CODE 10
+the sugar changes due to photosynthesis from 0.86 to 4.03 due to a 6 x 0.53(growthstage)= 3.17
+1.58321672798 is being used for mantainment
+now the in sugar is 2.443
+growt stage: 0.53
+just grown
+LEAF CODE 11
+the sugar changes due to photosynthesis from 0.41 to 2.58 due to a 6 x 0.36(growthstage)= 2.17
+1.08636889802 is being used for mantainment
+now the in sugar is 1.498
+growt stage: 0.36
+just grown
+LEAF CODE 12
+the sugar changes due to photosynthesis from 0.25 to 1.73 due to a 6 x 0.25(growthstage)= 1.48
+0.738804302017 is being used for mantainment
+now the in sugar is 0.993
+growt stage: 0.25
+just grown
+LEAF CODE 13
+the sugar changes due to photosynthesis from 0.66 to 1.34 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 1.001
+growt stage: 0.11
+just grown
+LEAF CODE 14
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 15
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 16
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 17
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 18
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 19
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 44: 102.994
+TOTAL LEAF NUMBER AT RUN 45: 20
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 3
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 4
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 5
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 6
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 7
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 8
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 9
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 10
+the sugar changes due to photosynthesis from 1.97 to 6.53 due to a 6 x 0.76(growthstage)= 4.56
+2.27899532329 is being used for mantainment
+now the in sugar is 4.25
+growt stage: 0.76
+just grown
+the sugar is in excess (4.01)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 2.00924331075
+LEAF CODE 11
+the sugar changes due to photosynthesis from 0.86 to 4.03 due to a 6 x 0.53(growthstage)= 3.17
+1.58321672798 is being used for mantainment
+now the in sugar is 2.443
+growt stage: 0.53
+just grown
+LEAF CODE 12
+the sugar changes due to photosynthesis from 0.24 to 2.41 due to a 6 x 0.36(growthstage)= 2.17
+1.08636889802 is being used for mantainment
+now the in sugar is 1.326
+growt stage: 0.36
+just grown
+LEAF CODE 13
+the sugar changes due to photosynthesis from 0.11 to 1.11 due to a 6 x 0.17(growthstage)= 1.0
+0.499272316688 is being used for mantainment
+now the in sugar is 0.612
+growt stage: 0.17
+drawing for growth in next stage
+0.833575894437 of sugar was drawn from the stem
+ Now the internal sugar is 1.44539740834
+LEAF CODE 14
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 15
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 16
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 17
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 18
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 19
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 20
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 45: 127.25
+TOTAL LEAF NUMBER AT RUN 46: 21
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 3
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 4
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 5
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 6
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 7
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 8
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 9
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 10
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 11
+the sugar changes due to photosynthesis from 1.97 to 6.53 due to a 6 x 0.76(growthstage)= 4.56
+2.27899532329 is being used for mantainment
+now the in sugar is 4.25
+growt stage: 0.76
+just grown
+the sugar is in excess (4.01)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 2.00924331075
+LEAF CODE 12
+the sugar changes due to photosynthesis from 0.69 to 3.85 due to a 6 x 0.53(growthstage)= 3.17
+1.58321672798 is being used for mantainment
+now the in sugar is 2.271
+growt stage: 0.53
+just grown
+LEAF CODE 13
+the sugar changes due to photosynthesis from 1.45 to 2.44 due to a 6 x 0.17(growthstage)= 1.0
+0.499272316688 is being used for mantainment
+now the in sugar is 1.945
+growt stage: 0.17
+just grown
+LEAF CODE 14
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+LEAF CODE 15
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 16
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 17
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 18
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 19
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 20
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 21
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 46: 155.341
+TOTAL LEAF NUMBER AT RUN 47: 22
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 3
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 4
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 5
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 6
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 7
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 8
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 9
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 10
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 11
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 12
+the sugar changes due to photosynthesis from 1.8 to 6.36 due to a 6 x 0.76(growthstage)= 4.56
+2.27899532329 is being used for mantainment
+now the in sugar is 4.078
+growt stage: 0.76
+just grown
+the sugar is in excess (3.84)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 1.83737051124
+LEAF CODE 13
+the sugar changes due to photosynthesis from 1.11 to 2.59 due to a 6 x 0.25(growthstage)= 1.48
+0.738804302017 is being used for mantainment
+now the in sugar is 1.85
+growt stage: 0.25
+just grown
+LEAF CODE 14
+the sugar changes due to photosynthesis from 0.49 to 0.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.637
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.58691794515
+LEAF CODE 15
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+LEAF CODE 16
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 17
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 18
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 19
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 20
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 21
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 22
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 47: 185.309
+TOTAL LEAF NUMBER AT RUN 48: 23
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 3
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 4
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 5
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 6
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 7
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 8
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 9
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 10
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 11
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 12
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 13
+the sugar changes due to photosynthesis from 1.1 to 3.27 due to a 6 x 0.36(growthstage)= 2.17
+1.08636889802 is being used for mantainment
+now the in sugar is 2.183
+growt stage: 0.36
+just grown
+LEAF CODE 14
+the sugar changes due to photosynthesis from 1.59 to 1.89 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.738
+growt stage: 0.05
+just grown
+LEAF CODE 15
+the sugar changes due to photosynthesis from 0.49 to 0.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.637
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.58691794515
+LEAF CODE 16
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+LEAF CODE 17
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 18
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 19
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 20
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 21
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 22
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 23
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 48: 216.441
+TOTAL LEAF NUMBER AT RUN 49: 24
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 3
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 4
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 5
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 6
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 7
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 8
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 9
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 10
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 11
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 12
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 13
+the sugar changes due to photosynthesis from 1.54 to 4.71 due to a 6 x 0.53(growthstage)= 3.17
+1.58321672798 is being used for mantainment
+now the in sugar is 3.128
+growt stage: 0.53
+just grown
+the sugar is in excess (2.66)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 0.655613734621
+LEAF CODE 14
+the sugar changes due to photosynthesis from 0.79 to 1.24 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 1.013
+growt stage: 0.08
+just grown
+LEAF CODE 15
+the sugar changes due to photosynthesis from 1.59 to 1.89 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.738
+growt stage: 0.05
+just grown
+LEAF CODE 16
+the sugar changes due to photosynthesis from 0.49 to 0.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.637
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.58691794515
+LEAF CODE 17
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+LEAF CODE 18
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 19
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 20
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 21
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 22
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 23
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 24
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 49: 248.228
+TOTAL LEAF NUMBER AT RUN 50: 25
+LEAF CODE 1
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 2
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 3
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 4
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 5
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 6
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 7
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 8
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 9
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 10
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 11
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 12
+the sugar changes due to photosynthesis from 2.0 to 8.0 due to a 6 x 1.0(growthstage)= 6.0
+3 is being used for mantainment
+now the in sugar is 5.0
+growt stage: 1.0
+the sugar is in excess (5.0)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 3.0
+LEAF CODE 13
+the sugar changes due to photosynthesis from 2.0 to 6.56 due to a 6 x 0.76(growthstage)= 4.56
+2.27899532329 is being used for mantainment
+now the in sugar is 4.279
+growt stage: 0.76
+just grown
+the sugar is in excess (4.04)
+note, this is the sugar out: 0 this is the type: <type 'int'>
+note, now I set it to 0: 0
+now the internal amount of sugar is 2.0, while the outgoing is going to be 2.03866043105
+LEAF CODE 14
+the sugar changes due to photosynthesis from 0.09 to 0.76 due to a 6 x 0.11(growthstage)= 0.67
+0.335925123779 is being used for mantainment
+now the in sugar is 0.424
+growt stage: 0.11
+drawing for growth in next stage
+0.88802495874 of sugar was drawn from the stem
+ Now the internal sugar is 1.31246638837
+LEAF CODE 15
+the sugar changes due to photosynthesis from 0.79 to 1.24 due to a 6 x 0.08(growthstage)= 0.45
+0.225343130821 is being used for mantainment
+now the in sugar is 1.013
+growt stage: 0.08
+just grown
+LEAF CODE 16
+the sugar changes due to photosynthesis from 1.59 to 1.89 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 1.738
+growt stage: 0.05
+just grown
+LEAF CODE 17
+the sugar changes due to photosynthesis from 0.49 to 0.79 due to a 6 x 0.05(growthstage)= 0.3
+0.150855639711 is being used for mantainment
+now the in sugar is 0.637
+growt stage: 0.05
+drawing for growth in next stage
+0.949714786763 of sugar was drawn from the stem
+ Now the internal sugar is 1.58691794515
+LEAF CODE 18
+the sugar changes due to photosynthesis from 1.35 to 1.55 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 1.453
+growt stage: 0.03
+just grown
+LEAF CODE 19
+the sugar changes due to photosynthesis from 0.28 to 0.49 due to a 6 x 0.03(growthstage)= 0.2
+0.100851377931 is being used for mantainment
+now the in sugar is 0.385
+growt stage: 0.03
+drawing for growth in next stage
+0.966382874023 of sugar was drawn from the stem
+ Now the internal sugar is 1.35187901476
+LEAF CODE 20
+the sugar changes due to photosynthesis from 1.19 to 1.33 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 1.262
+growt stage: 0.02
+just grown
+LEAF CODE 21
+the sugar changes due to photosynthesis from 0.15 to 0.28 due to a 6 x 0.02(growthstage)= 0.13
+0.0673598189833 is being used for mantainment
+now the in sugar is 0.217
+growt stage: 0.02
+drawing for growth in next stage
+0.977546727006 of sugar was drawn from the stem
+ Now the internal sugar is 1.19483167083
+LEAF CODE 22
+the sugar changes due to photosynthesis from 1.09 to 1.18 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 1.135
+growt stage: 0.01
+just grown
+LEAF CODE 23
+the sugar changes due to photosynthesis from 0.06 to 0.15 due to a 6 x 0.01(growthstage)= 0.09
+0.044962562422 is being used for mantainment
+now the in sugar is 0.105
+growt stage: 0.01
+drawing for growth in next stage
+0.985012479193 of sugar was drawn from the stem
+ Now the internal sugar is 1.08997504161
+LEAF CODE 24
+the sugar changes due to photosynthesis from 1.02 to 1.08 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 1.05
+growt stage: 0.01
+just grown
+LEAF CODE 25
+the sugar changes due to photosynthesis from 0.0 to 0.06 due to a 6 x 0.01(growthstage)= 0.06
+0.03 is being used for mantainment
+now the in sugar is 0.03
+growt stage: 0.01
+drawing for growth in next stage
+0.99 of sugar was drawn from the stem
+ Now the internal sugar is 1.02
+TOTAL SUGAR IN STEM AT THE END OF RUN 50: 280.51
