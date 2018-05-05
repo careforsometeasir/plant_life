@@ -33,7 +33,7 @@ class leaf ():
     """the leaf can grow from growth_stage=0.01 to 1 with a basal mantainment consumption of growthstage*3. The growth cost in sugar is inversely proportional to the growthstage: to grow 1%, the consumption is 10*(1-growthstage). """
     def __init__(self):    
         self.growth_stage=0.01
-        self.sugar=10
+        self.sugar=0
 #        self.alive=True
         self.deathcount=0
         self.alive=self.is_alive()
@@ -63,7 +63,8 @@ class leaf ():
         if what =="sugar":
             self.sugar_out-=amount
             self.sugar+=amount
-#            print(amount,"sugar drawn")
+            print("{} of sugar was drawn from the stem\n Now the internal sugar is {}".format(amount,self.sugar))
+            
         if what =="H2O":
             self.H2O_out-=amount
        
@@ -71,8 +72,14 @@ class leaf ():
         """if there is excess of sugar in the leaf, returns it to the stem"""
         if what =="sugar":
             if self.sugar>2:
-                self.sugar-= self.sugar-2                
-                self.sugar_out+= self.sugar-2
+                print("the sugar is in excess ({})".format(round(self.sugar,2)))
+                delta = self.sugar-2
+                self.sugar-= delta    
+                print("note, this is the sugar out: {} this is the type: {}".format(self.sugar_out,type(self.sugar_out)))
+#                self.sugar_out=0
+                print("note, now I set it to 0: {}".format(self.sugar_out))
+                self.sugar_out += delta
+                print("now the internal amount of sugar is {}, while the outgoing is going to be {}".format(round(self.sugar,2),self.sugar_out))
      
 
     def stomatain_test(self,what,amount):
@@ -100,46 +107,55 @@ class leaf ():
         if self.inflow_test("H2O",6) and self.stomatain_test("CO2",6) and self.air.solar==True:#light phase
             self.inflow_do("H2O",6)#draws water            
             self.stomatain_do("CO2",6)#draws CO2   
+            print("the sugar changes due to photosynthesis from {} to {} due to a 6 x {}(growthstage)= {}".format(round(self.sugar,2),round(self.sugar+self.growth_stage*6,2),round(self.growth_stage,2),round(self.growth_stage*6,2)))
             self.sugar+=self.growth_stage*6
+            
             self.stomataout("O2",6)#returns O2
-            if self.verbose==True:
-                print ("synth:\n CO2 %s \n H2O %s\n sugar %s\n O2 %s"%(self.air.CO2,self.stem.H2O,self.sugar,self.air.O2))            
+#            if self.verbose==True:
+#                print ("synth:\n CO2 %s \n H2O %s\n sugar %s\n O2 %s"%(self.air.CO2,self.stem.H2O,self.sugar,self.air.O2))            
         #TODO: dark phase 
 
     def mantain(self):
         """the leaf cannot live without maintainment"""
         if self.sugar>3*self.growth_stage:
+            print("{} is being used for mantainment".format(3*self.growth_stage))
             self.sugar-=3*self.growth_stage
+            print("now the in sugar is {}".format(round(self.sugar,3)))
             self.deathcount-=1
 #            print("mantained")
         else:
             if self.inflow_test("sugar",3*self.growth_stage):#enough sugar in stem
+                print("warning, not enough sugar for mantainment")
                 self.inflow_do("sugar",3*self.growth_stage)#draw it use at next time step
 #                print("for mantainement")
             else:
                 if self.stem.sugar>0:#Check if there is sugar at all in stem. I should use a function, rather than a direct test 
                         self.inflow_do("sugar",self.stem.sugar)#draw all sugar available  
+                        print("warning, not enough sugar for mantainment II")
 #                        print("for mantainment")
             self.deathcount+=1 #no sugar readily available
             
     def grow (self):
         """the leaf can live without growing"""
-        print(self.growth_stage,"stage")
+        print("growt stage: {}".format(round(self.growth_stage,2)))
 
         if self.growth_stage<1:#
-            print("there is growth only if the leaf is not mature",self.sugar,1-self.growth_stage)
+#            print("there is growth only if the leaf is not mature",self.sugar,1-self.growth_stage)
             if self.sugar>=(1-self.growth_stage):#
                 self.sugar-=(1-self.growth_stage)
-                self.growth_stage+=1-np.exp(-self.growth_stage)#1% of growth for 10sugar*(1-growth stage). The higher the growth stage the cheaper the growth
+                self.growth_stage+=1-np.exp(-0.5*self.growth_stage)#1% of growth for 10sugar*(1-growth stage). The higher the growth stage the cheaper the growth
+                print("just grown")
                 if self.growth_stage>1:
                     self.growth_stage=1
 #                print("grown!")
             else:#if the sugar is not enough, draw it for the next time step
                 if self.inflow_test("sugar",(1-self.growth_stage)):#enough sugar in circulation
+                    print("drawing for growth in next stage")
                     self.inflow_do("sugar",(1-self.growth_stage))#draw all necessary
 #                    print("for growth")
                 else:
                     if self.stem.sugar>0:#Check if there is sugar at all in circulation.I should use a function, rather than a direct test 
+                        print("something else")
                         self.inflow_do("sugar",self.stem.sugar)#draw all sugar available
 #                        print("for growth")
 
@@ -166,7 +182,16 @@ class leaf ():
                 self.grow()   
                 self.outflow("sugar")
                 self.alive=self.is_alive()
-        return self.CO2_out,self.O2_out,self.H2O_out,self.sugar_out
+                CO2_out=self.CO2_out
+                O2_out=self.O2_out
+                H2O_out=self.H2O_out
+                sugar_out=self.sugar_out
+                self.CO2_out=0
+                self.O2_out=0
+                self.H2O_out=0
+                self.sugar_out=0
+                
+        return CO2_out,O2_out,H2O_out,sugar_out
 #                print ("the leaf survived")
 
 
