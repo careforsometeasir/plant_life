@@ -7,9 +7,9 @@ def create_logfile(logs):
         if os.path.isdir("logs")==False:
             os.makedirs("logs")
 #        csv=os.path.join("logs","data_logged{}.csv".format(str(dt.datetime.now())))
-        log=os.path.join("logs","log{}.txt".format(str(dt.datetime.now())))
+        log=os.path.join("logs","log{}.txt".format(str(dt.datetime.now()).replace(":", "-")))
         
-        with open(log, "a") as txt: 
+        with open(log, "w") as txt: 
             for s in logs:
                 txt.write(s)
 #def logger(function):
